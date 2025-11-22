@@ -37,7 +37,7 @@ The tool follows **1D Airy isostasy backstripping**, consistent with the methodo
 ## Conceptual Workflow
 
 ```text
-Input Stratigraphy (ages, depths)
+Input Stratigraphy (ages, unit, depths)
           |
           v
    Decompact Units
