@@ -1,0 +1,18 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.env
+.venv/
+
+# MacOS metadata
+.DS_Store
+
+# Plot outputs / temp files
+*.png
+*.svg
+*.pdf
